@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "image": "1.jpg",
+      "name": "Mob 1",
+      "price": 9500,
+      "article": "T1",
+      "available": true,
+      "category": "NEW"
+    },
+    {
+      "image": "2.jpg",
+      "name": "Mob 2",
+      "price": 7500,
+      "article": "T2",
+      "available": true,
+      "category": "OLD"
+    },
+    {
+      "image": "3.jpg",
+      "name": "Mob 3",
+      "price": 7050,
+      "article": "T3",
+      "available": false,
+      "category": "OLD"
+    },
+    {
+      "image": "4.jpg",
+      "name": "Mob 4",
+      "price": 9100,
+      "article": "T4",
+      "available": true,
+      "category": "NEW"
+    },
+    {
+      "image": "5.jpg",
+      "name": "Mob 5",
+      "price": 8000,
+      "article": "T5",
+      "available": false,
+      "category": "OLD"
+    },
+    {
+      "image": "6.jpeg",
+      "name": "Mob 6",
+      "price": 9000,
+      "article": "T6",
+      "available": true,
+      "category": "NEW"
+    }
+  ]
+}
